@@ -1,0 +1,13 @@
+To: leonardo.souza@easytaxi.com.br
+Subject:EC2 - Welcome to sftp from billing
+Greatings fellows, you were granted access to sftp system, please don't share this credentials.
+
+
+Provider: Qiwi
+Country: AR
+Company_admin: qiwi_admin 
+Password: YmQwYTg5ZD
+
+
+Company_out: qiwi_out 
+Password: ZDFhODZhZW. 

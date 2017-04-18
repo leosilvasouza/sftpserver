@@ -1,0 +1,6 @@
+To: admin@easytaxi.com.br
+Subject:EC2 - User removed in sftp from billing
+Hello Admin, the user was removed from rcvault server. 
+
+
+user_admin: Qiwi
