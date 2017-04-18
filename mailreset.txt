@@ -3,8 +3,8 @@ Subject:EC2 - Password reseted to access the sftp from billing
 Hi there, like requested, the password was reseted, please don't share this credentials.
 
 
-Company_admin: Qiwi.user.conf_admin 
-Password: ODZiZWI0Yz
+Company_admin: Qiwi_admin 
+Password: PASSWORD
 
-Company_out: Qiwi.user.conf_out
-Password: MTY1YzBmOD
+Company_out: Qiwi_out
+Password: PASSWORD
