@@ -5,9 +5,9 @@ Greatings fellows, you were granted access to sftp system, please don't share th
 
 Provider: Qiwi
 Country: AR
-Company_admin: qiwi_admin 
-Password: YmQwYTg5ZD
+Company_admin: Qiwi_admin
+Password: PASSWORD
 
 
 Company_out: qiwi_out 
-Password: ZDFhODZhZW. 
+Password: PASSWORD 
