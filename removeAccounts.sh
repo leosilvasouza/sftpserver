@@ -40,7 +40,7 @@ ssmtp admin@easytaxi.com.br < maildel.txt
 
 
 # Removing the users and passwords on the database
-mysql -u root -ppea881tour384 -e "use sftpdb;
+mysql -u root -pPASSWORD -e "use sftpdb;
 
 DELETE FROM rcvault WHERE user='"$company"_admin';
 DELETE FROM rcvault WHERE user='"$company"_out';"
