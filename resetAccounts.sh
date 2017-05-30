@@ -30,7 +30,7 @@ echo "Email sent with success to $mail_address"
 
 #Save change to database
 
-mysql -u root -ppea881tour384 -e "use sftpdb;
+mysql -u root -pPASSWORD -e "use sftpdb;
  
 UPDATE Table rcvault set password='$pass_admin' WHERE user='"$company"_admin';
 UPDATE Table rcvault set password='$pass_out' WHERE user='"$company"_out';"
