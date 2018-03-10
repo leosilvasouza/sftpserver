@@ -1,4 +1,4 @@
-To: leonardo.souza@easytaxi.com.br
+To: leonardosilva.souza@yahoo.com.br
 Subject:EC2 - Welcome to sftp from billing
 Greatings fellows, you were granted access to sftp system, please don't share this credentials.
 
