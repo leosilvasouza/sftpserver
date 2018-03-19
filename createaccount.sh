@@ -1,6 +1,6 @@
 # Creating enviromments with folders and creating accounts
 
-if [ "$#"  "$3" ]; then
+if [ "$#" -ne "$3" ]; then
 	echo "To create: name_company country email_address_to_receive_data"
 	exit 1;
 fi
